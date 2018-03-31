@@ -12,5 +12,5 @@ deploy:
 	cd ../themes/LinuxLefty-Theme && git add . && git commit -m "Auto-commit before deploying"; git push origin
 
 	git add .
-	git commit -m "Auto-commit before deploying"
-	git push origin || echo
+	git commit -m "Auto-commit before deploying" || echo
+	git push origin
