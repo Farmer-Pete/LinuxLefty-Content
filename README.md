@@ -1,1 +1,3 @@
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/linuxlefty/LinuxLefty-Content)
+# LinuxLefty
+
+This is the source of my personal website: [LinuxLefty.com](https://www.linuxlefty.com)
