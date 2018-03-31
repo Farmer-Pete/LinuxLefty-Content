@@ -13,4 +13,4 @@ deploy:
 
 	git add .
 	git commit -m "Auto-commit before deploying"
-	git push origin
+	git push origin || echo
