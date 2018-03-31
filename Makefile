@@ -9,10 +9,8 @@ build:
 
 deploy:
 
-	pushd ../themes/LinuxLefty-Theme
-	git commit -a -m "Auto-commit before deploying"
-	git push origin
-	popd
+	cd ../themes/LinuxLefty-Theme && git add . && git commit -m "Auto-commit before deploying"; git push origin
 
-	git commit -a -m "Auto-commit before deploying"
+	git add .
+	git commit -m "Auto-commit before deploying"
 	git push origin
