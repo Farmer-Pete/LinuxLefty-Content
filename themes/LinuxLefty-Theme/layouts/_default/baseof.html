@@ -46,5 +46,16 @@
     <main>{{ block "main" . }}{{ end }}</main>
     <footer>{{ block "footer" . }}{{ end }}</footer>
     <div class="logo-overlay"><span class="logo-linux-1">L</span><span class="logo-lefty-1">L</span></div>
+    <script>
+    if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+        if (!user) {
+            window.netlifyIdentity.on("login", () => {
+            document.location.href = "/admin/";
+            });
+        }
+        });
+    }
+    </script>
   </body>
 </html>
