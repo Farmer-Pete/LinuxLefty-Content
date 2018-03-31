@@ -1,0 +1,207 @@
+/* Colors from: https://github.com/chriskempson/tomorrow-theme */
+
+figure img {
+    max-width: 100%;
+}
+
+a, a:hover {
+    border-color: #cc6666;
+}
+
+a[href*="://"]::after, a[rel*="external"] {
+	content: " " url("data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20class='i-external'%20viewBox='0%200%2032%2032'%20width='14'%20height='14'%20fill='none'%20stroke='%23de955f'%20stroke-linecap='round'%20stroke-linejoin='round'%20stroke-width='9.38%'%3E%3Cpath%20d='M14%209%20L3%209%203%2029%2023%2029%2023%2018%20M18%204%20L28%204%2028%2014%20M28%204%20L14%2018'/%3E%3C/svg%3E");
+}
+
+a[href*="://"]:hover::after, a[rel*="external"]:hover {
+	content: " " url("data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20class='i-external'%20viewBox='0%200%2032%2032'%20width='14'%20height='14'%20fill='none'%20stroke='%23ffffff'%20stroke-linecap='round'%20stroke-linejoin='round'%20stroke-width='9.38%'%3E%3Cpath%20d='M14%209%20L3%209%203%2029%2023%2029%2023%2018%20M18%204%20L28%204%2028%2014%20M28%204%20L14%2018'/%3E%3C/svg%3E");
+}
+
+.muted a {
+    color: inherit;
+}
+
+a[itemprop="url"] {
+	color: #de955f;
+}
+
+a:hover {
+    background-color: #cc6666;
+    border-color: #fff;
+    color: #fff;
+}
+
+.dark {
+    color: #c5c8c6;
+}
+
+.dark, .dark pre {
+    background-color: #1d1f21
+}
+
+h1 {
+    color: #8abeb7;
+    font-weight: bold;
+}
+
+.hack h2 {
+    overflow: hidden;
+    padding-bottom: 15px;
+}
+
+.hack h2::before {
+    content: "";
+}
+
+.hack h2::after {
+	bottom: 0;
+	content: "----------------------------------------------------------------------------------------------------";
+	left: 0;
+	position: absolute;
+}
+
+.hack h2[itemprop="name"] {
+    padding-bottom: 0;
+}
+
+.hack h2[itemprop="name"]::after {
+    content: "";
+}
+
+h2, h3, h4, h5, h6 {
+    color: #b5bd68;
+}
+
+.hack h1, .hack h2, .hack h3, .hack h4, .hack h5, .hack h6 {
+    margin-left: -1em;
+    margin-right: -1em;
+    padding-left: 1em;
+    padding-right: 1em;
+    margin-top: 3em;
+}
+
+.dark pre code {
+    color: #81a2be;
+}
+
+.logo {
+    font-size: 200%;
+    margin-bottom: 1em;
+    margin-top: 1em;
+    text-align: center;
+}
+
+.logo-linux-1, .logo-lefty-1, .logo .logo-linux {
+    -webkit-transition: -webkit-all .8s ease-in-out;
+       -moz-transition: -moz-all .8s ease-in-out;
+        -ms-transition: -ms-all .8s ease-in-out;
+         -o-transition: -o-all .8s ease-in-out;
+            transition:         all .8s ease-in-out;
+}
+
+.logo-linux-1, .logo-lefty-1 {
+    font-size: 200%;
+    font-weight: bold;
+}
+
+.logo-linux-1 {
+    color: #8abeb7;
+}
+
+.logo-lefty-1 {
+    color: #81a2be;
+}
+
+.logo-linux-2, .logo-lefty-2 {
+    color: #b5bd68;
+}
+
+.logo-linux-3, .logo-lefty-3 {
+    color: #f0c674;
+}
+
+.logo-linux-4, .logo-lefty-4 {
+    color: #de935f;
+}
+
+.logo-linux-5, .logo-lefty-5 {
+    color: #cc6666;
+}
+
+@media screen and (min-width: 480px) {
+    .logo {
+        font-size: 400%;
+        text-align: center;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .logo {
+        font-size: 600%;
+        text-align: center;
+    }
+}
+
+.logo:hover .logo-linux, .logo .logo-linux-1, .logo .logo-lefty-1,
+.logo-overlay .logo-linux-1, .logo-overlay:hover .logo-lefty-1 {
+    display:inline-block;
+    -webkit-transform:rotateY(0deg);
+       -moz-transform:rotateY(0deg);
+        -ms-transform:rotateY(0deg);
+         -o-transform:rotateY(0deg);
+            transform:rotateY(0deg);
+}
+
+.logo:hover .logo-lefty-1, .logo-overlay .logo-lefty-1 {
+    display:inline-block;
+    -webkit-transform:rotateY(180deg) rotateX(180deg);
+       -moz-transform:rotateY(180deg) rotateX(180deg);
+        -ms-transform:rotateY(180deg) rotateX(180deg);
+         -o-transform:rotateY(180deg) rotateX(180deg);
+            transform:rotateY(180deg) rotateX(180deg);
+}
+
+.logo .logo-linux,.logo-overlay:hover .logo-linux-1 {
+    display: inline-block;
+    margin-right: -0.21em;
+    -webkit-transform:rotateY(180deg);
+       -moz-transform:rotateY(180deg);
+        -ms-transform:rotateY(180deg);
+         -o-transform:rotateY(180deg);
+            transform:rotateY(180deg);
+}
+
+.logo .logo-lefty {
+    display: inline-block;
+    margin-left: -0.21em;
+}
+
+.logo-overlay {
+    bottom: 5px;
+    position: fixed;
+    right: 5px;
+}
+
+.logo-overlay .logo-linux-1 {
+    margin-right: -0.05em;
+}
+
+.logo-overlay .logo-lefty-1 {
+    margin-left: -0.05em;
+}
+
+nav {
+    text-align: center;
+}
+
+details {
+	background: #282a2e;
+	border: 1px solid #373b41;
+	margin-bottom: 1em;
+	margin-left: -1em;
+	margin-right: -1em;
+}
+
+details nav {
+    text-align: left;
+}
+
