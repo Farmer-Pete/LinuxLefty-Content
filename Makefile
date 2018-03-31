@@ -7,7 +7,7 @@ build:
 	rsync -rav --delete --delete-excluded --exclude ".git*" ../themes/ themes/
 	hugo
 
-deploy:
+deploy: build
 
 	cd ../themes/LinuxLefty-Theme && git add . && git commit -m "Auto-commit before deploying"; git push origin
 
