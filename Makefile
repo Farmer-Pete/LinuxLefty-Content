@@ -1,10 +1,10 @@
 help:
 
-	@echo "Usage: make <build|deploy>"
+	@echo "Usage: make <build|deploy|preview>"
 
-build:
 
-	rsync -rav --delete --delete-excluded --exclude ".git*" ../themes/ themes/
+build: _sync
+
 	hugo
 
 deploy: build
@@ -14,3 +14,11 @@ deploy: build
 	git add .
 	git commit -m "Auto-commit before deploying" || echo
 	git push origin
+
+preview: _sync
+
+	hugo serve -D
+
+_sync:
+
+	rsync -rav --delete --delete-excluded --exclude ".git*" ../themes/ themes/
