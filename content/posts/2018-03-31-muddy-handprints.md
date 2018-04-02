@@ -4,8 +4,8 @@ slug = "muddy-hand-prints"
 date = 2018-03-31
 draft = false
 toc = false
-categories = ["Parenting"]
-tags = ["kids"]
+categories = ["Life"]
+tags = ["kids", "parenting"]
 header = ["/images/posts/2018-03-31-muddy-buddy.jpg"]
 +++
 
