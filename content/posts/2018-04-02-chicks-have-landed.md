@@ -6,7 +6,7 @@ draft = false
 toc = false
 categories = ["Farm"]
 tags = ["chicks"]
-header = ["/images/posts/2018-04-02-chicks.jpg"]
+images = ["/images/posts/2018-04-02-chicks.jpg"]
 +++
 
 ## "Your Chicks Have Arrived"

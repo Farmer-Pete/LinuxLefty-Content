@@ -11,6 +11,9 @@
     <blockquote itemprop="headline">{{ .Description }}</blockquote>
   {{ end }}
   <div itemprop="description">
+    {{ with .Params.images }}
+        <img src="{{ index . 0 }}">
+    {{ end }}
     {{ .Summary }}
   </div>
   {{ if .Truncated }}

@@ -6,7 +6,6 @@ draft = false
 toc = false
 categories = ["Faith"]
 tags = ["sermon", "Easter"]
-#header = [""]
 +++
 
 As I am reflecting today on Jesus' great sacrifice, I'm reminded of an awesome sermon that I heard while attending a men's conference with my father.

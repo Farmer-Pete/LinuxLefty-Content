@@ -6,7 +6,7 @@ draft = false
 toc = false
 categories = ["Life"]
 tags = ["kids", "parenting"]
-header = ["/images/posts/2018-03-31-muddy-buddy.jpg"]
+images = ["/images/posts/2018-03-31-muddy-buddy.jpg"]
 +++
 
 ## Painting Daddy's Truck

@@ -9,6 +9,28 @@ uglyurls = true
 author = "Peter Naudus"
 related_content_limit = 5
 
+[related]
+threshold = 80
+includeNewer = true
+toLower = true
+
+[[related.indices]]
+name = "keywords"
+weight = 150
+
+[[related.indices]]
+name = "author"
+weight = 30
+
+[[related.indices]]
+name = "tags"
+weight = 100
+
+[[related.indices]]
+name = "date"
+weight = 10
+pattern = "2000" # Show things that happened in the same year
+
 [params.seo]
 disable_bpg = true # Disable BPG image support
 
