@@ -11,7 +11,7 @@ images = ["/images/posts/2018-03-31-muddy-handprints.jpg"]
 
 ## Painting Daddy's Truck
 
-The other day one the kids were playing outside in the mud. When they came back in and we asked if they had fun, they happily exclaimed:
+The other day, the kids were playing outside in the mud. When they came back in and we asked if they had fun, they happily exclaimed:
 
 > Yes! We painted Daddy's truck!
 
