@@ -9,7 +9,7 @@ Basic usage:
 <blockquote {{ with .Get "class" }}class="{{ . }}"{{ end }} {{ with .Get "citelink" }}cite="{{ . }}"{{ end }}>
   {{ .Inner }}
   {{ with .Get "citelink" }}
-    <cite><a target="_blank" href="{{ . }}">{{ $.Get "cite" }}</a></cite>
+    <cite><a target="_blank" href="{{ . }}" rel="external noopener noreferrer nofollow">{{ $.Get "cite" }}</a></cite>
   {{ else }}
     <cite>{{ .Get "cite" }}</cite>
   {{ end }}

@@ -1,5 +1,5 @@
-{{ if .IsNamdParams }}
+{{ if .IsNamedParams }}
 <a href='{{.Get "src"}}' rel="external noopener noreferrer nofollow" target="_blank">{{.Get "text"}}</a>
 {{ else }}
-<a href='{{.Get10}}' rel="external noopener noreferrer nofollow" target="_blank">{{.Get 0}}</a>
+<a href='{{.Get 1}}' rel="external noopener noreferrer nofollow" target="_blank">{{.Get 0}}</a>
 {{ end }}

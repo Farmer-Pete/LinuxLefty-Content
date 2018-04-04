@@ -18,7 +18,7 @@ https://gohugo.io/content-management/shortcodes/#figure
 {{ $title := .Get "title" }}
 {{ $class := .Get "class" }}
 <figure{{ with $class }} class="{{ . }}"{{ end }}>
-  {{ with $link }}<a href="{{ . }}"{{ if $linktarget }} target="{{ $linktarget }}"{{ end }}{{ if eq $linktarget "_blank" }} rel="external noopener noreferrer"{{ end }}>{{ end }}
+  {{ with $link }}<a href="{{ . }}"{{ if $linktarget }} target="{{ $linktarget }}"{{ end }}{{ if eq $linktarget "_blank" }} rel="external noopener noreferrer nofollow"{{ end }}>{{ end }}
     {{ if $lqipsrc }}
       <img class="lazyload blur-up" src="{{ $lqipsrc }}" data-src="{{ $src }}" {{ if or $alt $caption }}alt="{{ with $alt }}{{ . }}{{ else }}{{ $caption }}{{ end }}"{{ end }} />
     {{ else }}

@@ -10,7 +10,7 @@ tags = ["blog", "hugo"]
 
 ## In the beginning
 
-Over the years, LinuxLefty has taken various different forms. I started out using {{<a MODX http://modx.com/>}}, then used {{<a WordPress http://wordpress.org>}}, then I ported the site over to {{<a Pelican https://getpelican.com/>}}, then I decided I wanted to write articles and used {{<a DokuWiki https://www.dokuwiki.org/dokuwiki>}}, then I gave up completely and let the site lapse. Now I'm rebooting the site with the help of {{<a Hugo https://gohugo.io/>}}.
+Over the years, LinuxLefty has taken various different forms. I started out using {{<a MODX "http://modx.com/">}}, then used {{<a WordPress "http://wordpress.org">}}, then I ported the site over to {{<a Pelican "https://getpelican.com/">}}, then I decided I wanted to write articles and used {{<a DokuWiki "https://www.dokuwiki.org/dokuwiki">}}, then I gave up completely and let the site lapse. Now I'm rebooting the site with the help of {{<a Hugo "https://gohugo.io/">}}.
 
 ## A place to call my own
 
