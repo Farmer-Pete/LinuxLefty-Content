@@ -5,7 +5,7 @@ date = 2018-03-30
 draft = false
 toc = false
 categories = ["Meta"]
-tags = ["blog"]
+tags = ["blog", "hugo"]
 +++
 
 ## In the beginning
