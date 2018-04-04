@@ -2,7 +2,7 @@ baseURL = "http://www.linuxlefty.com/"
 languageCode = "en-us"
 title = "LinuxLefty"
 theme = "LinuxLefty-Theme"
-uglyurls = true
+uglyurls = false
 
 [params]
 
