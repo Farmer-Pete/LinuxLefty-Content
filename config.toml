@@ -50,4 +50,4 @@ url = "/posts.html"
 name = "Resume"
 weight = 3
 identifier = "resume"
-url = "https://www.linkedin.com/in/linuxlefty"
+url = "/resume.html"
