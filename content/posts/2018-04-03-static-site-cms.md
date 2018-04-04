@@ -9,7 +9,7 @@ tags = ["cms", "hugo"]
 #images = [""]
 +++
 
-## Static Site Generations
+## Static Site Generators
 
 I'm a huge fan and proponent of static site generators. They give me the flexibility to easily work offline (the Internet can be spotty out where I live), have everything backed up in Git, and the ability to deploy anywhere.
 
