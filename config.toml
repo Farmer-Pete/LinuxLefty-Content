@@ -8,6 +8,7 @@ uglyurls = true
 
 author = "Peter Naudus"
 related_content_limit = 5
+description = "The personal website of Peter Naudus (aka LinuxLefty)"
 
 [related]
 threshold = 80
