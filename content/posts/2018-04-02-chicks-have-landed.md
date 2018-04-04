@@ -17,7 +17,7 @@ As this was our first time having chicks, I was really worried. As soon as I got
 
 I piled the two older kids in the car and off we went!
 
-When we arrived at the post office, I could hear the chirping from the lobby. This is the first time that I've ever said, "Hi! I'm here to pick up my chicks." __Random quiz time:__ Did you know that you can also send [live bees and scorpions](https://pe.usps.com/text/pub52/pub52c5_008.htm) through the mail?
+When we arrived at the post office, I could hear the chirping from the lobby. This is the first time that I've ever said, "Hi! I'm here to pick up my chicks." __Random quiz time:__ Did you know that you can also send {{<a "live bees and scorpions" "https://pe.usps.com/text/pub52/pub52c5_008.htm">}} through the mail?
 
 And just like that, they handed over a box with a chirping commotion emanating from its contents.
 
