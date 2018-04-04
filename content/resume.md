@@ -7,7 +7,7 @@ toc = false
 
 I have almost two decades of professional experience as an enthusiastic, creative and tenacious programmer. I have both the technical skills coupled with the passion to solve problems and implement robust, performant software. I am constantly striving, not only to improve myself, but to help those around me to do the same. I am currently a technical lead specializing in "big data" at Oracle.
 
-Email me at **uselinux@gmail.com**
+Email me at **<u>uselinux@gmail.com</u>**
 
 ## Experience
 
