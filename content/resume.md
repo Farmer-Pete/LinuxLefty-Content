@@ -13,7 +13,7 @@ Email me at **<u>uselinux@gmail.com</u>**
 
 ### **Technical Lead** at **Oracle**
 
-<p class="muted">2013 - Present</p>
+<p class="muted">February 2013 - Present</p>
 
 In addition to maintaining all responsibilities prior to the acquisition, I created technical designs and assisted in the porting of the python-based system to Java. Eventually, I became the technical lead, where I implemented agile methodologies, coordinated tasks between multiple groups, and acted as an architect of many of the core systems. I maintained this leadership position as we rearchitected the system as a fleet of microservices running on top of Kubernetes and Docker. In addition to my development responsibilities, I also created and maintained the scripts which compiled, packaged, and versioned our releases.
 
