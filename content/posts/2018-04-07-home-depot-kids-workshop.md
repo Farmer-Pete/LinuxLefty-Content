@@ -1,7 +1,7 @@
 +++
 title = "Exterior Improvements: Thanks Dad and Mom!"
 slug = "exterior-improvements-thanks-dad-mom"
-date = 2018-04-06
+date = 2018-04-07
 draft = false
 toc = false
 categories = ["Parenting"]
