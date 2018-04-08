@@ -1,6 +1,6 @@
 +++
-title = "Exterior Improvements: Thanks Dad and Mom!"
-slug = "exterior-improvements-thanks-dad-mom"
+title = "First Kid's Workshop at Home Depot"
+slug = "first-kids-workshop-home-depot"
 date = 2018-04-07
 draft = false
 toc = false
