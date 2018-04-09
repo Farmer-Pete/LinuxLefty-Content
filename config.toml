@@ -3,6 +3,8 @@ languageCode = "en-us"
 title = "LinuxLefty"
 theme = "LinuxLefty-Theme"
 enableRobotsTXT = true
+pygmentsCodeFences = true
+pygmentsUseClasses = true
 
 [params]
 
