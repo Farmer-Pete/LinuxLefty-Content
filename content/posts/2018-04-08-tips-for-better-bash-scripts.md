@@ -9,6 +9,8 @@ tags = ["Bash", "scripting", "Linux", "Windows"]
 #images = ["/images/posts/2018-04-07-home-depot.jpg"]
 +++
 
+Bash is everywhere. It is on Linux (obviously), on OSX, and is even on Windows with the new Linux Subsystem. However, writing scripts can be a bit tricky. However, here are three tips that I've found useful when writing Bash scripts.
+
 ## Tip 1: Use Flags
 
 There are three flags that will make bash scripting easier and save you a lot of frustrations:
