@@ -9,7 +9,7 @@ tags = ["kids", "workshop", "Home Depot"]
 images = ["/images/posts/2018-04-07-home-depot.jpg"]
 +++
 
-Today we took the kids to their first Kid's Workshop at the Hoe Depot. It was a lot of fun!
+Today we took the kids to their first Kid's Workshop at the Home Depot. It was a lot of fun!
 
 {{<figure class="center" src="/images/posts/2018-04-07-home-depot.jpg" caption="Yay For Home Depot">}}
 
