@@ -1,0 +1,5 @@
+{{ if .IsNamedParams }}
+<a href='/tags/{{.Get "tag"}}'>{{.Get "text"}}</a>
+{{ else }}
+<a href='/tags/{{.Get 1}}'>{{.Get 0}}</a>
+{{ end }}

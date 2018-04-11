@@ -5,7 +5,7 @@ date = 2018-04-02
 draft = false
 toc = false
 categories = ["Farm"]
-tags = ["chicks"]
+tags = ["chicks", "chickens"]
 images = ["/images/posts/2018-04-02-chicks.jpg"]
 +++
 

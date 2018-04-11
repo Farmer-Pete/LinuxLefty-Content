@@ -1,0 +1,5 @@
+{{ if .IsNamedParams }}
+<a href='/categories/{{.Get "category"}}'>{{.Get "text"}}</a>
+{{ else }}
+<a href='/categories/{{.Get 1}}'>{{.Get 0}}</a>
+{{ end }}

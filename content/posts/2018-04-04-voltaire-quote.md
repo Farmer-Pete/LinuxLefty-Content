@@ -5,7 +5,7 @@ date = 2018-04-04
 draft = false
 toc = false
 categories = ["Musings"]
-tags = ["Voltaire", "quote"]
+tags = ["quote"]
 #images = [""]
 +++
 

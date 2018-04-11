@@ -3,7 +3,7 @@
 {{ end }}
 {{ define "main" }}
   <header>
-    <h1>{{ .Title }}</h1>
+    <h1>Posts Tagged With "{{ .Title }}"</h1>
   </header>
   {{ range .Paginator.Pages }}
     {{ partial "page-summary.html" . }}

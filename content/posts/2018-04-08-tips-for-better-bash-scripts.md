@@ -125,6 +125,6 @@ Now, regardless if the script executed successfully, had an error, or even if so
 
 ## Tip 3: Use ShellCheck
 
-Finally, [ShellCheck](https://www.shellcheck.net/) is a static analysis tool for Bash. I have found ShellCheck to be invaluable, as it finds and reports potential pitfalls and errors. You can either run using the online tool, download it as a standalone tool, or run it as part of your editor or IDE. Personally, it run it using [ALE](https://github.com/w0rp/ale) with the [NeoVim](https://neovim.io/) editor.
+Finally, {{<a ShellCheck "https://www.shellcheck.net/">}} is a static analysis tool for Bash. I have found ShellCheck to be invaluable, as it finds and reports potential pitfalls and errors. You can either run using the online tool, download it as a standalone tool, or run it as part of your editor or IDE. Personally, it run it using {{<a ALE "https://github.com/w0rp/ale">}} with the {{<a NeoVim "https://neovim.io/">}} editor.
 
 That's it! I hope that you find at least one of these tips useful :)

@@ -4,8 +4,8 @@ slug = "muddy-hand-prints"
 date = 2018-03-31
 draft = false
 toc = false
-categories = ["Life"]
-tags = ["kids", "parenting"]
+categories = ["Parenting"]
+tags = ["kids", "truck"]
 images = ["/images/posts/2018-03-31-muddy-handprints.jpg"]
 +++
 
