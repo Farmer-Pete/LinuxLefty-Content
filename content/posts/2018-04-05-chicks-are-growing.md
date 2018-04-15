@@ -9,7 +9,7 @@ tags = ["chicks", "chickens"]
 images = ["/images/posts/2018-04-05-chicks.jpg"]
 +++
 
-The chicks are finally old enough to remove the paper towels and put down the bedding. It has been fun to see them starting to scratch, throwing the shavings everywhere. I raised their water up a bit to keep the savings out. I still have to muck the cake a couple times a week, but it beats having to change the paper towels a couple times a day!
+The chicks are finally old enough to remove the paper towels and put down the bedding. It has been fun to see them starting to scratch, throwing the shavings everywhere. I raised their water up a bit to keep the savings out. I still have to muck the cage a couple times a week, but it beats having to change the paper towels a couple times a day!
 
 {{<figure class="center" src="/images/posts/2018-04-05-chicks.jpg" caption="Holy cow! They are growing fast.">}}
 

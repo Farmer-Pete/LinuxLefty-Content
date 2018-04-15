@@ -4,7 +4,7 @@ slug = "five-types-dubstep-electronic-music"
 date = 2018-04-10
 draft = false
 toc = false
-categories = ["Life"]
+categories = ["Media"]
 tags = ["electronic", "music", "dubstep"]
 #images = ["/images/posts/2018-04-07-home-depot.jpg"]
 +++

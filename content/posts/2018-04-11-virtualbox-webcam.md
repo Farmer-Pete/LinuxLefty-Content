@@ -13,7 +13,7 @@ This is a quick post to document something rather simple, but something that too
 
 Firstly, all of this was gleaned from the VirtualBox documentation, specificailly {{<a "the chapter on VBoxManage" "https://www.virtualbox.org/manual/ch08.html">}}.
 
-To list the webcams that are installed on the system and available to VirtualBox, use the command: `VBoxManage list webcams`. Here is some sample output from my laptop
+To list the webcams that are installed on the system and available to VirtualBox, use the command: `VBoxManage list webcams`. Here is some sample output from my laptop:
 
 ```
 $> VBoxManage list webcams
