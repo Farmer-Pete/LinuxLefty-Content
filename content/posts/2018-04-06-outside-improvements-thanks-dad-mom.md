@@ -5,7 +5,7 @@ date = 2018-04-06
 draft = false
 toc = false
 categories = ["Farm"]
-tags = ["landscaping", "Dad", "Mom"]
+tags = ["landscaping", "Dad", "Mom", "projects"]
 images = ["/images/posts/2018-04-06-landscaping.jpg"]
 +++
 
