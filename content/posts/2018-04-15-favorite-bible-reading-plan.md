@@ -13,4 +13,6 @@ I've tried a number of Bible reading plans out there, but so far, my favorite ha
 
 If you're reading in a physical Bible, I prefer to follow along using the {{<a "blog on blogspot" "https://dailybiblereadingpodcast.blogspot.com/">}}. If you use the Bible app, you can also find the plan there.
 
+This plan does a particularly great job of balancing the readings. You have one reading from the Old Testament, one from a book of Poetry, and one from the New Testament. It often breaks up longer chapters, which I haven't seen in other Bible reading plans.
+
 Happy reading!
