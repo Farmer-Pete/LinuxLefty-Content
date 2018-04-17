@@ -9,7 +9,7 @@ tags = ["chicks", "chickens", "outside"]
 images = ["/images/posts/2018-04-13-chicks-m-c.jpg"]
 +++
 
-The chicks [keep getting bigger](/posts/chicks-are-growing-fast) and the dog crate they are in is getting a little tight. We eventually need to figure out a new temporary home for them, before they are big enough to live in the chicken coup. However, in the mean time, I built a chicken tractor so that they can have some outside time. It is a much larger area for them to run around in and they are able to free range for part of the day.
+The chicks [keep getting bigger](/posts/chicks-are-growing-fast) and the dog crate they are in is getting a little tight. We eventually need to figure out a new temporary home for them, before they are big enough to live in the chicken coop. However, in the mean time, I built a chicken tractor so that they can have some outside time. It is a much larger area for them to run around in and they are able to free range for part of the day.
 
 {{<figure class="center" src="/images/posts/2018-04-13-chicks-m-c.jpg" caption="The kids really enjoyed feeding the chicks some vegtable scraps">}}
 
