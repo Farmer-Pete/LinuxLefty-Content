@@ -21,18 +21,18 @@ When we arrived at the post office, I could hear the chirping from the lobby. Th
 
 And just like that, they handed over a box with a chirping commotion emanating from its contents.
 
-{{<figure class="center" src="/images/posts/2018-04-02-chicks-box-closed.jpg" caption="They're here!">}}
+{{<figure src="/images/posts/2018-04-02-chicks-box-closed.jpg" caption="They're here!">}}
 
 I lifted the flap to peak inside and cute, tiny, fluffy chicks peered back at me.
 
-{{<figure class="center" src="/images/posts/2018-04-02-chicks-box-open.jpg" caption="They made it!">}}
+{{<figure src="/images/posts/2018-04-02-chicks-box-open.jpg" caption="They made it!">}}
 
 ## Moving Into Their New Home
 
 We converted an old dog crate into their new home. I lined the sides with cardboard to protect the chicks from drafts and prevent debris (and chicks) from escaping.
 
-{{<figure class="center" src="/images/posts/2018-04-02-chicks.jpg" caption="So Cute!">}}
+{{<figure src="/images/posts/2018-04-02-chicks.jpg" caption="So Cute!">}}
 
 Day one of this experiment is a success!
 
-{{<figure class="center" src="/images/posts/2018-04-02-chick-girl.jpg" caption="My daugher was really excited to hold the chicks">}}
+{{<figure src="/images/posts/2018-04-02-chick-girl.jpg" caption="My daugher was really excited to hold the chicks">}}

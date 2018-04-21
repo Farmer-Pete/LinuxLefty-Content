@@ -1,5 +1,10 @@
 /* Colors from: https://github.com/chriskempson/tomorrow-theme */
 
+figure {
+    margin: auto;
+    text-align: center;
+}
+
 figure img {
     max-width: 100%;
 }

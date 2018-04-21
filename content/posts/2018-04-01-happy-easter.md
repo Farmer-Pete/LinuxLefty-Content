@@ -12,7 +12,7 @@ As I am reflecting today on Jesus' great sacrifice, I'm reminded of an awesome s
 
 Jesus gave and sacrificed so much, the only thing I can do is to go "all in" for Christ.
 
-<figure class="center">
+<figure>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/vfSRziGGZYE?rel=0&amp;start=3820" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <figcaption><small>The preaching starts about an the hour mark and lasts about an hour</small></figcaption>
 </figure>
