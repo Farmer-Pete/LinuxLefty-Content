@@ -29,7 +29,7 @@ So, I suited up for battle.
 
 After sweeping out all the old wood shavings and poo, the coop immediately looked better.
 
-{{<figure src="/images/posts/2018-04-19-less-funky.jpg" caption="Right after I took this picture, I realized I needed to pee">}}
+{{<figure src="/images/posts/2018-04-19-less-funky.jpg" caption="Wow, I can see the floor!">}}
 
 Then, I used a crowbar to pull out all the leftover bits of drywall and scrape off all the abandoned wasp nests.
 
