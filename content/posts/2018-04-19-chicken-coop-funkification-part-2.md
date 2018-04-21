@@ -11,7 +11,7 @@ images = ["/images/posts/2018-04-19-hazmat.jpg"]
 
 To celebrate our [anniversary](/tags/anniversary), I'm taking the week off as a farm-cation (a mini vacation where you work on the farm).
 
-For the rest of the week and next week if I have any time after work, I'm working on fixing up the chicken coop so that we can move the chicks out there. The coop has fallen in disrepair and needs some TLC before we can put our chicks in there.
+For the rest of the week, and next week if I have any time after work, I'm working on fixing up the chicken coop so that we can move the chicks out there. The coop has fallen in disrepair and needs some TLC before we can put our chicks in there.
 
 {{<figure class="center" src="/images/posts/2018-04-19-funky.jpg" caption="Lots of dirt, poo, and abandoned wasp nests">}}
 
