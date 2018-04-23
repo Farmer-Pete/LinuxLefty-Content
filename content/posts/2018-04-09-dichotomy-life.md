@@ -4,7 +4,7 @@ slug = "dichotomy-of-my-life"
 date = 2018-04-09
 draft = false
 toc = false
-categories = ["Musings"]
+categories = ["Musings", "Life"]
 tags = ["life", "farm"]
 #images = ["/images/posts/2018-04-07-home-depot.jpg"]
 +++

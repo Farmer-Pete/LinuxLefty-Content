@@ -15,6 +15,6 @@ Today I worked (you guessed it) out in the chicken coop. Now that the walls are 
 
 Compare that against what we started with:
 
-{{<figure src="/images/posts/2018-04-21-funky.jpg" caption="So scarry!">}}
+{{<figure src="/images/posts/2018-04-21-funky.jpg" caption="So scary!">}}
 
 I still have to finish the staining, but I think it is safe to declare the coop "defunkified"!
