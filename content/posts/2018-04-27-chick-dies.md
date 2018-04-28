@@ -19,7 +19,7 @@ I was hopeful that it I would be able to nurse it back to health, but when I cam
 
 {{<figure src="/images/posts/2018-04-27-sad.jpg" caption="Sleep, little one">}}
 
-Eventually, after it pooped in my hands, I wrapped it in a couple of paper towels and nestled it on my chest, to keep it warm. It slept there for most of the day as I plodded through my day's programming tasks. Eventually, after a long pitiful cry, it died. I cried ... actually I wept. I wanted so badly to save the chick, and I wasn't able to. I felt silly being so emotionally wrecked by something that would have eventually be food for us, but I wanted that it to have years of happily exploring outside before that day came. I didn't want it to suffer. At least it got to die surrounded by warmth and comfort.
+Eventually, after it pooped in my hands, I wrapped it in a couple of paper towels and nestled it on my chest, to keep it warm. It slept there for most of the day as I plodded through my day's programming tasks. Eventually, after a long pitiful cry, it died. I cried ... actually I wept. I wanted so badly to save the chick, and I wasn't able to. I felt silly being so emotionally wrecked by something that would have eventually been food for us, but I wanted that it to have years of happily exploring outside before that day came. I didn't want it to suffer. At least it got to die surrounded by warmth and comfort.
 
 I buried the chick out by the hen house: the place I was hoping that would have been its future home. The chicks seem to be particularly fond of Dandelions, so I picked a single yellow flower and laid it on top of the tiny, freshly dug grave.
 
