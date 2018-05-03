@@ -15,7 +15,7 @@ Email me at **<u>uselinux@gmail.com</u>**
 
 <p class="muted">February 2013 - Present</p>
 
-In addition to maintaining all responsibilities prior to the acquisition, I created technical designs and assisted in the porting of the python-based system to Java. Eventually, I became the technical lead, where I implemented agile methodologies, coordinated tasks between multiple groups, and acted as an architect of many of the core systems. I maintained this leadership position as we rearchitected the system as a fleet of microservices running on top of Kubernetes and Docker. In addition to my development responsibilities, I also created and maintained the scripts which compiled, packaged, and versioned our releases.
+In addition to maintaining all responsibilities prior to the acquisition, I created technical designs and assisted in the porting of the python-based system to Java. Eventually, I became the technical lead where I implemented agile methodologies, coordinated tasks between multiple groups, and acted as an architect of many of the core systems. I maintained this leadership position as we rearchitected the system as a fleet of microservices running on top of Kubernetes and Docker. In addition to my development responsibilities, I also created and maintained the scripts which compiled, packaged, and versioned our releases.
 
 ### **Software Engineer** at **DataRaker**
 
@@ -45,7 +45,7 @@ I wrote software to collect data statistics and generate utilization and perform
 
 <p class="muted">January 2003 - November 2004</p>
 
-I was given sole responsibility to automate the manufacturing, functional, and stress testing of a PON (Passive Optical Network) and ONT (Optical Network Terminator) product line. I achieved Automation using TCL, TK, Expect, and PHP resulting in over 15,000 lines of combined code.
+I was given sole responsibility to automate the manufacturing, functional, and stress testing of a PON (Passive Optical Network) and ONT (Optical Network Terminator) product line. I achieved automation using TCL, TK, Expect, and PHP resulting in over 15,000 lines of combined code.
 
 ### **Junior Test Engineer** at **Advanced Switching Communications**
 
@@ -72,5 +72,5 @@ I worked with juvenile delinquents, guiding them towards a lasting change of beh
 
 <p class="muted">February 2008 - January 2010</p>
 
-At Peking University, I training underprivileged Chinese English teachers on effective teaching methods. My class sizes varied widely from 20 to over sometimes over 200 students.
+At Peking University, I trained underprivileged Chinese English teachers on effective teaching methods. My class sizes varied widely from 20 to over sometimes over 200 students.
 
