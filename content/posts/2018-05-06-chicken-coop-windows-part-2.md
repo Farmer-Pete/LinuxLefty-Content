@@ -6,7 +6,7 @@ draft = false
 toc = false
 categories = ["Farm"]
 tags = ["chicks", "chickens", "coop", "projects", "windows"]
-#images = ["/images/posts/2018-04-18-chick-close.jpg"]
+images = ["/images/posts/2018-05-06-fully-installed.jpg"]
 +++
 
 I continued replacing the coop windows. I built a wooden frame around each window and then joined the two frames together.
@@ -19,8 +19,8 @@ Then I installed the windows, framing the space around the windows as these are 
 
 Things were really starting to come together, but the project started to derail when I installed the plywood. I didn't purchase sheets wide enough, so I had to cut and install two smaller pieces. I must of measured incorrectly, because I had a couple inch gap in the middle. I cut another piece to cover the gap, but now it looks kind of funky. I'm not too concerned about it, though, because I have plans which will cover this space up. 
 
-<!-- {{<figure src="/images/posts/2018-05-06-partially-installed.jpg" caption="It's not be prettiest, but it works">}} -->
+{{<figure src="/images/posts/2018-05-06-fully-installed.jpg" caption="It's not be prettiest, but it works">}}
 
 The great news is that with the windows complete, I can finally move the chickens out of our house and into their new home!
 
-<!-- {{<figure src="/images/posts/2018-05-06-partially-installed.jpg" caption="They seem to like it :)">}} -->
+{{<figure src="/images/posts/2018-05-06-chickens.jpg" caption="They seem to like it :)">}}
