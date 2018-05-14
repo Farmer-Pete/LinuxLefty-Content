@@ -1,7 +1,10 @@
 help:
 
-	@echo "Usage: make <build|deploy|preview>"
+	@echo "Usage: make <build|clean|deploy|preview>"
 
+clean:
+
+	rm -frv public
 
 build: _sync
 
